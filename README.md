@@ -1,1 +1,2 @@
-![test](https://github.com/Devendra2803/Text-recognition-using-easycor/assets/151667719/05c26199-2b41-4331-9000-712c9e9dab7a)
+
+![image](https://github.com/user-attachments/assets/63060271-6c97-4d2f-bf9c-2041a8229473)
